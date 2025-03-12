@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.ce42df9b.css",
+    "main.js": "/my-app/static/js/main.1be5d557.js",
+    "static/media/vision.png": "/my-app/static/media/vision.067d4ae1936d64a577ce.png",
+    "static/media/thor.jpeg": "/my-app/static/media/thor.533e3a5e127689ab0b1f.jpeg",
+    "static/media/abyss.jpg": "/my-app/static/media/abyss.93d211d37b67a60bace9.jpg",
+    "static/media/mjolnir.png": "/my-app/static/media/mjolnir.61f31e1809f12183a524.png",
+    "static/media/error.gif": "/my-app/static/media/error.42292aa12b6bc303ce99.gif",
+    "index.html": "/my-app/index.html",
+    "main.ce42df9b.css.map": "/my-app/static/css/main.ce42df9b.css.map",
+    "main.1be5d557.js.map": "/my-app/static/js/main.1be5d557.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce42df9b.css",
+    "static/js/main.1be5d557.js"
+  ]
+}
